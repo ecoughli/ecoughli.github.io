@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Elizabeth Coughlin's website... :-)
+Hi, I'm Elizabeth Coughlin (she/her), and I'm a senior at Trinity University in San Antonio majoring in physics and minoring in astronomy and mathematics.  I'm currently applying for astronomy/physics PhD graduate programs.
