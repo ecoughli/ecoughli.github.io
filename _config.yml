@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  iposters:
     output: true
     permalink: /:collection/:path/
 
@@ -199,10 +199,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
+  # _iposters
   - scope:
       path: ""
-      type: publications
+      type: iposters
     values:
       layout: single
       author_profile: true
