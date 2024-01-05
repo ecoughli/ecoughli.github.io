@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 <object data="../files/Coughlin-Elizabeth-Updated-Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
-[Coughlin-Elizabeth-Updated-Resume-1}(../images/Coughlin-Elizabeth-Updated-Resume-1)
+![Coughlin-Elizabeth-Updated-Resume-1}(../images/Coughlin-Elizabeth-Updated-Resume-1)
