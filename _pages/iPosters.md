@@ -5,4 +5,6 @@ permalink: /iposters/
 author_profile: true
 ---
 
-insert iPosters here
+"Low energy calibration of X-ray Detectors" - AAS 243
+
+"Improved X-ray Flux Determinations of Quadruply Lensed Quasars" - AAS 241
