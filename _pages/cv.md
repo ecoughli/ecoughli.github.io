@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 ![Coughlin-Elizabeth-Updated-Resume-1](../images/Coughlin-Elizabeth-Updated-Resume-1.jpg)
+
 ![Coughlin-Elizabeth-Updated-Resume-2](../images/Coughlin-Elizabeth-Updated-Resume-2.jpg)
